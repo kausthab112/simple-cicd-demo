@@ -1,1 +1,0 @@
-# simple-cicd-demo
